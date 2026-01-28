@@ -1,3 +1,7 @@
+layout: page
+title: "Privacy-Policy"
+permalink: /privacy-policy
+
 # Privacy Policy
 
 This Privacy Policy explains how **CodeSkillz** (the “App”) collects, uses, and shares information.
