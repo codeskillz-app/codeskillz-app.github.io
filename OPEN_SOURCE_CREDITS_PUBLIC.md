@@ -1,3 +1,7 @@
+layout: page
+title: "Open Source Credits"
+permalink: /open-source-credits
+
 # Open Source Credits
 
 This app is made possible thanks to the open source tools and libraries listed below. We are grateful to the maintainers and contributors who make these projects available.
